@@ -1,0 +1,628 @@
+{
+    "product_data":[
+        {
+            "id":"1",
+            "title":"W. Men Formal T-shirt",
+            "price":1700.00,
+            "description":"Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum.",
+            "images":[
+                "https://minimalin-demo.myshopify.com/cdn/shop/files/shirt_1_1024x1024.png?v=1692372496","https://minimalin-demo.myshopify.com/cdn/shop/files/shirt_2_1024x1024.png?v=1692372496","https://minimalin-demo.myshopify.com/cdn/shop/files/shirt_4_1024x1024.png?v=1692372496"
+            ],
+            "quantity":1
+        },
+        {
+            "id":"2",   
+            "title":"B. Pair of Blue Shoes",
+            "price":6900.00,
+            "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/blueshoe_2_1024x1024.png?v=1692626014","https://minimalin-demo.myshopify.com/cdn/shop/files/blueshoe_3_1024x1024.png?v=1692626014","https://minimalin-demo.myshopify.com/cdn/shop/files/blueshoe_5_1024x1024.png?v=1692626014"
+        ],
+        "quantity":1
+        },
+        {
+            "id":"3",
+            "title":"F. Ultimate Smart Watch",
+            "price":12000.00,
+            "description":"Nunc nonummy metus. Vestibulum volutpat pretium libero Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png?v=1692459788","https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1_1024x1024.png?v=1692459788","https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png?v=1720268679"],
+            "quantity":1
+        },
+        {
+            "id":"4",
+            "title":"S. Mokmol Jacket",
+            "price":3500.00,
+            "description":"Far far away, behind the word mountains, far from the countries Vokalia",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/jacket_8_1024x1024.png?v=1692357458","https://minimalin-demo.myshopify.com/cdn/shop/files/jacket_9_1024x1024.png?v=1692357458","https://minimalin-demo.myshopify.com/cdn/shop/files/jacket_11_1024x1024.png?v=1692357458"],
+            "quantity":1
+        },
+        {
+            "id":"5",
+            "title":"A. Stylist Sunglass",
+            "price":9400.00,
+            "description":"Nunc nonummy metus. Vestibulum volutpat pretium libero",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/sunglass_1_1024x1024.png?v=1692115588","https://minimalin-demo.myshopify.com/cdn/shop/files/sunglass_2_1024x1024.png?v=1692115587","https://minimalin-demo.myshopify.com/cdn/shop/files/sunglass_4_1024x1024.png?v=1694964950"],
+            "quantity":1
+        },
+        {
+            "id":"6",
+            "title":"M. Denim Clothing Jacket",
+            "price":4500.00,
+            "description":"Far far away, behind the word mountains, far from the countries Vokalia",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/jacket_1_1024x1024.png?v=1692285993","https://minimalin-demo.myshopify.com/cdn/shop/files/jacket_2_1024x1024.png?v=1692285992","https://minimalin-demo.myshopify.com/cdn/shop/files/jacket_4_1024x1024.png?v=1692285992"],
+            "quantity":1
+        },
+        {
+            "id":"7",
+            "title":"E. Casual Comforts T-shirt",
+            "price":3400.00,
+            "description":"Nunc nonummy metus. Vestibulum volutpat pretium libero",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/ment-shirt_1_1024x1024.png?v=1692120651","https://minimalin-demo.myshopify.com/cdn/shop/files/ment-shirt_2_1024x1024.png?v=1692120652","https://minimalin-demo.myshopify.com/cdn/shop/files/ment-shirt_3_1024x1024.png?v=1692120651"],
+            "quantity":1
+        },
+        {
+            "id":"8",
+            "title":"D. Fashionable Hat",
+            "price":1500.00,
+            "description":"Far far away, behind the word mountains, far from the countries Vokalia",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/hat_1_1024x1024.png?v=1692120024","https://minimalin-demo.myshopify.com/cdn/shop/files/hat_2_1024x1024.png?v=1692120025","https://minimalin-demo.myshopify.com/cdn/shop/files/hat_3_1024x1024.png?v=1692120025"],
+            "quantity":1
+        },
+        {
+            "id":"9",
+            "title":"Ma. Metal Earring with Topaz",
+            "price":2500.00,
+            "description":"Nunc nonummy metus. Vestibulum volutpat pretium libero",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/metal-earring_1_1024x1024.png?v=1693671671","https://minimalin-demo.myshopify.com/cdn/shop/files/metal-earring_2_1024x1024.png?v=1693671670","https://minimalin-demo.myshopify.com/cdn/shop/files/metal-earring_3_1024x1024.png?v=1693671671"],
+            "quantity":1
+        },
+        {
+            "id":"10",
+            "title":"Wb. Flower Flavor Liquid Soap",
+            "price":1200.00,
+            "description":"Far far away, behind the word mountains, far from the countries Vokalia",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/soap_1_1024x1024.png?v=1696933374","https://minimalin-demo.myshopify.com/cdn/shop/files/soap_2_1024x1024.png?v=1696933373","https://minimalin-demo.myshopify.com/cdn/shop/files/soap_3_1024x1024.png?v=1696933373"],
+            "quantity":1
+        },
+        {
+            "id":"11",
+            "title":"Ja. Hydrating Moisturizer",
+            "price":1250.00,
+            "description":"The European languages are members of the same family. Their separate existence is a myth.",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/TheHydratingMoisturizer_1024x1024.png?v=1696603469"],
+            "quantity":1
+        },
+        {
+            "id":"12",
+            "title":"Ca. Long T Shirt for Summer",
+            "price":1500.00,
+            "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/longt-shirt_1_1024x1024.png?v=1693310153","https://minimalin-demo.myshopify.com/cdn/shop/files/longt-shirt_2_1024x1024.png?v=1693310153","https://minimalin-demo.myshopify.com/cdn/shop/files/longt-shirt_3_1024x1024.png?v=1693310152"],
+            "quantity":1
+        },
+        {
+            "id":"13",
+            "title":"Tb. Dark Lipstick",
+            "price":12000.00,
+            "description":"The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/lipstick_1_1024x1024.png?v=1696941869","https://minimalin-demo.myshopify.com/cdn/shop/files/lipstick_2_1024x1024.png?v=1696941870","https://minimalin-demo.myshopify.com/cdn/shop/files/lipstick_3_1024x1024.png?v=1696941870"],
+            "quantity":1
+        },
+        {
+            "id":"14",
+            "title":"Ia. Glossy cosmetic skin care",
+            "price":1500.00,
+            "description":"Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat.",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/skin-care_1_1024x1024.png?v=1696927055","https://minimalin-demo.myshopify.com/cdn/shop/files/skin-care_2_1024x1024.png?v=1696927056","https://minimalin-demo.myshopify.com/cdn/shop/files/skin-care_3_1024x1024.png?v=16969270550"],
+            "quantity":1
+        },
+        {
+            "id":"15",
+            "title":"Xb. Realistic Fitness Trackers",
+            "price":3400.00,
+            "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/fitnesstracker_1_1024x1024.png?v=1694497944","https://minimalin-demo.myshopify.com/cdn/shop/files/fitnesstracker_2_1024x1024.png?v=1694497944","https://minimalin-demo.myshopify.com/cdn/shop/files/fitnesstracker_4_1024x1024.png?v=1694497945"],
+            "quantity":1
+        },
+        {
+            "id":"18",
+            "title":"Ta. Silver Ring with Diamond",
+            "price":2500.00,
+            "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "images":["https://minimalin-demo.myshopify.com/cdn/shop/files/silver-rign_1_1024x1024.png?v=1693308117","https://minimalin-demo.myshopify.com/cdn/shop/files/silver-rign_2_1024x1024.png?v=1693308116","https://minimalin-demo.myshopify.com/cdn/shop/files/silver-rign_4_1024x1024.png?v=1693308117"],
+            "quantity":1
+        }
+    ],
+    
+        "women_clothes": [
+          {
+            "id": 1,
+            "title": "Floral Print Summer Dress",
+            "description": "Lightweight, breathable, and perfect for summer outings.",
+            "images": "https://img.freepik.com/free-photo/portrait-asian-woman-yellow-summer-dress-stands-with-plumeria-thai-flower-hair-round-earrings_343596-2106.jpg?t=st=1740934707~exp=1740938307~hmac=0a052558af836f49e0b306b304338d82548ee78b9e287ee7f1b48d4112487a0e&w=740",
+            "price": 29.99,
+            "rating": 4.5
+          },
+          {
+            "id": 2,
+            "title": "Casual Denim Jacket",
+            "description": "Classic denim jacket with a relaxed fit.",
+            "images": "https://img.freepik.com/free-photo/medium-shot-woman-posing-outdoors_23-2149870211.jpg?t=st=1740934904~exp=1740938504~hmac=266b384999e73d7516ec290bd870f3f42b1e6c7a348ffb5fbe0f023c155ad9d0&w=740",
+            "price": 49.99,
+            "rating": 4.7
+          },
+          {
+            "id": 3,
+            "title": "Boho Maxi Dress",
+            "description": "A flowy, stylish maxi dress with intricate prints.",
+            "images": "https://img.freepik.com/premium-photo/portrait-woman-smiling-street_1048944-4160530.jpg?w=740",
+            "price": 39.99,
+            "rating": 4.3
+          },
+          {
+            "id": 4,
+            "title": "Comfy Cotton T-Shirt",
+            "description": "Soft cotton t-shirt available in multiple colors.",
+            "images": "https://img.freepik.com/premium-photo/cheerful-confident-showing-ok-gesture_1187-266054.jpg?w=1380",
+            "price": 14.99,
+            "rating": 4.6
+          },
+          {
+            "id": 5,
+            "title": "Slim Fit Jeggings",
+            "description": "Comfortable stretch jeggings for daily wear.",
+            "images": "https://img.freepik.com/free-photo/woman-blue-sports-bra-leggings-set_53876-125241.jpg?t=st=1740935100~exp=1740938700~hmac=048107158f27571b42cfb58f2f2b0540329a8beaf3aaea9cf903b4622257cc09&w=740",
+            "price": 24.99,
+            "rating": 4.4
+          },
+          {
+            "id": 6,
+            "title": "Chic Blazer",
+            "description": "Perfect for office wear or evening outings.",
+            "images": "https://img.freepik.com/free-photo/fashion-portrait-young-elegant-woman_1328-2739.jpg?t=st=1740935154~exp=1740938754~hmac=ca30be987e3cf5d0e8bffa3fa51a80df4e269d52ad72f988b04a356bf1e63f7e&w=740",
+            "price": 59.99,
+            "rating": 4.8
+          },
+          {
+            "id": 7,
+            "title": "Knitted Wool Sweater",
+            "description": "Warm and cozy sweater for winter days.",
+            "images": "https://img.freepik.com/premium-photo/autumn-cozy-still-life-with-handmade-pumpkin-sweater-leaves-warm-lights_370028-4366.jpg?w=900",
+            "price": 34.99,
+            "rating": 4.7
+          },
+          {
+            "id": 8,
+            "title": "High Waist Skinny Jeans",
+            "description": "Trendy high waist jeans with a flattering fit.",
+            "images": "https://img.freepik.com/free-photo/full-shot-smiley-woman-posing-outdoors_23-2150360988.jpg?t=st=1740916820~exp=1740920420~hmac=3f394485b76ac6b91c6f4db69d1319b74552756c5512bd0a16c38917f9896681&w=740",
+            "price": 44.99,
+            "rating": 4.5
+          },
+          {
+            "id": 9,
+            "title": "Printed Kimono",
+            "description": "Lightweight kimono, great for layering.",
+            "images": "https://img.freepik.com/free-photo/woman-wearing-beautiful-japanese-kimonos-obi_23-2149187384.jpg?t=st=1740935315~exp=1740938915~hmac=7dffffda7ab055ef874492651caaa99b0a94cc3e3a0e26d06095964fa5780829&w=1380",
+            "price": 32.99,
+            "rating": 4.6
+          },
+          {
+            "id": 10,
+            "title": "Lace Evening Gown",
+            "description": "Elegant lace gown for special occasions.",
+            "images": "https://img.freepik.com/free-photo/front-view-elegant-girl-red-dress-leans-chair-looks-camera_8353-11655.jpg?t=st=1740935376~exp=1740938976~hmac=27a8d3f992cda99f313b768cf2521543404f4535003d7d11706182fb37d3291d&w=740",
+            "price": 79.99,
+            "rating": 4.9
+          },
+          {
+            "id": 11,
+            "title": "Cotton Palazzo Pants",
+            "description": "Loose, flowy pants for a relaxed fit.",
+            "images": "https://img.freepik.com/free-photo/blue-line-loose-pants-women-s-apparel-rear-view_53876-102139.jpg?t=st=1740935463~exp=1740939063~hmac=2f2bd8718ac304c7f6c81025a6b47c4e4d84f84f94af880eaccce0c6bd8297f2&w=740",
+            "price": 27.99,
+            "rating": 4.3
+          },
+          {
+            "id": 12,
+            "title": "Ruffled Off-Shoulder Top",
+            "description": "Trendy off-shoulder top with ruffled sleeves.",
+            "images": "https://img.freepik.com/premium-photo/white-blouse-hanging-clothes-line-clean-airdrying-attire_431161-41507.jpg?w=1480",
+            "price": 21.99,
+            "rating": 4.5
+          },
+          {
+            "id": 13,
+            "title": "Puffer Winter Coat",
+            "description": "Extra warm, lightweight puffer coat.",
+            "images": "https://img.freepik.com/free-photo/feeling-confused-puzzled-showing-you-are-insane_1194-400088.jpg?t=st=1740935557~exp=1740939157~hmac=ac9d3cef1f1b961df254ebaa255b5dd86e7f087a31c79ebc0c74d136c09b16bf&w=1380",
+            "price": 89.99,
+            "rating": 4.7
+          },
+          {
+            "id": 14,
+            "title": "Classic Black Leggings",
+            "description": "Stretchable leggings for daily wear.",
+            "images": "https://img.freepik.com/free-photo/young-beautiful-happy-woman-gray_155003-5330.jpg?t=st=1740935608~exp=1740939208~hmac=5057713ad037ed6136c1e4ba30647b6fc4879802e44c5c423e1f8ac83d696e12&w=740",
+            "price": 19.99,
+            "rating": 4.6
+          },
+          {
+            "id": 15,
+            "title": "Linen Shirt Dress",
+            "description": "Breathable linen dress for casual outings.",
+            "images": "https://img.freepik.com/free-photo/woman-green-dress-beach_1303-10513.jpg?t=st=1740935665~exp=1740939265~hmac=a0a85ed94480e9dc8841b6e57394b7a4e7891fd3838fc40460f3018a027df514&w=740",
+            "price": 36.99,
+            "rating": 4.5
+          },
+          {
+            "id": 16,
+            "title": "Long Sleeve Bodycon Dress",
+            "description": "Figure-hugging dress with elegant style.",
+            "images": "https://img.freepik.com/premium-photo/full-length-portrait-stunning-lady-beautiful-silver-cocktail-dress-beige-heels-posing-white-background-studio-shot-sensual-woman-sparkling-silver-dress-is-ready-party_132075-9072.jpg?w=740",
+            "price": 45.99,
+            "rating": 4.7
+          },
+          {
+            "id": 17,
+            "title": "Oversized Hoodie",
+            "description": "Comfortable oversized hoodie with pockets.",
+            "images": "https://img.freepik.com/free-photo/young-woman-orange-sweatshirt-poses-roof-building-city-center_1153-4958.jpg?t=st=1740937431~exp=1740941031~hmac=4f1e39fedb7d0bc1f5dbf3f42e33632128567dea934bd81a8d3f12cb3160cc1d&w=740",
+            "price": 39.99,
+            "rating": 4.8
+          },
+          {
+            "id": 18,
+            "title": "Corduroy Mini Skirt",
+            "description": "Stylish mini skirt with soft corduroy fabric.",
+            "images": "https://img.freepik.com/premium-photo/young-beautiful-woman-long-pink-dress_429051-2396.jpg?w=740",
+            "price": 29.99,
+            "rating": 4.4
+          },
+          {
+            "id": 19,
+            "title": "Elegant Silk Blouse",
+            "description": "Luxurious silk blouse for formal occasions.",
+            "images": "https://img.freepik.com/premium-photo/elegant-burgundy-crop-top-hanging-with-ruffled-sleeves-showcasing-chic-design_1290280-11645.jpg?w=740",
+            "price": 54.99,
+            "rating": 4.9
+          },
+          {
+            "id": 20,
+            "title": "Casual Jumpsuit",
+            "description": "Comfortable one-piece jumpsuit for any day.",
+            "images": "https://img.freepik.com/premium-photo/elegant-south-asian-woman-mustard-jumpsuit-exuding-confidence-style_1290280-5759.jpg?w=740",
+            "price": 42.99,
+            "rating": 4.6
+          }
+        ],
+
+
+        "men_data":[
+          {
+            "id": 1,
+            "images": "https://img.freepik.com/free-photo/shoes_1203-8154.jpg?t=st=1740980410~exp=1740984010~hmac=d7bd41ae58a598a0ceee9bc8e2ce342b1d2c724316eb7cdc0f1931b1aded821f&w=1380",
+            "title": "Men's Blue Sneakers",
+            "description": "Comfortable and stylish blue sneakers for casual wear.",
+            "price": 69.99,
+            "rating": 4.5
+          },
+          {
+            "id": 2,
+            "images": "https://img.freepik.com/free-psd/antique-navy-wallet-isolated-transparent-background_191095-23287.jpg?t=st=1740980449~exp=1740984049~hmac=6abd43fec1bf125f07d8b8bc115e0a674b989adc24430726a990c9d69f6071c9&w=900",
+            "title": "Leather Wallet",
+            "description": "Premium quality leather wallet with multiple card slots.",
+            "price": 29.99,
+            "rating": 4.7
+          },
+          {
+            "id": 3,
+            "images": "https://img.freepik.com/free-photo/cool-sunglasses-small-swimming-pool_23-2148633530.jpg?t=st=1740980301~exp=1740983901~hmac=a184f6536670d2f864e3a29e7bdc1b6fde5b0acea199db8bb57919559fbb3577&w=740",
+            "title": "Classic Aviator Sunglasses",
+            "description": "UV-protected aviator sunglasses for a sleek look.",
+            "price": 49.99,
+            "rating": 4.3
+          },
+          {
+            "id": 4,
+            "images": "https://img.freepik.com/free-photo/handsome-bearded-man-expressing-confidence-touching-his-leather-jacket-looking-self-assured_1258-26696.jpg?t=st=1740980548~exp=1740984148~hmac=891dce6accdb292855933c4b72a56ced46ca018982d97435aa1d20fb51fdb9ff&w=1380",
+            "title": "Men's Leather Jacket",
+            "description": "Stylish and durable leather jacket for winter fashion.",
+            "price": 129.99,
+            "rating": 4.6
+          },
+          {
+            "id": 5,
+            "images": "https://img.freepik.com/premium-photo/man-calm-face-posing-confidently-with-hands-pockets-man-look-attractive-casual-linen-shirt-guy-fashion-model-wear-casual-shirt-feel-comfortable-simple-outfit-casual-comfortable-outfit_474717-34984.jpg?w=740",
+            "title": "Casual Cotton Shirt",
+            "description": "Breathable cotton shirt suitable for all occasions.",
+            "price": 39.99,
+            "rating": 4.4
+          },
+          {
+            "id": 6,
+            "images": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1686.jpg?t=st=1740980767~exp=1740984367~hmac=1e936fad873647820a354cc038111823e29c75b16ee90b7c32422c91ec14cea7&w=900",
+            "title": "Sports Running Shoes",
+            "description": "High-performance running shoes with excellent grip.",
+            "price": 79.99,
+            "rating": 4.8
+          },
+          {
+            "id": 7,
+            "images": "https://img.freepik.com/free-photo/high-angle-man-wearing-watch_23-2149436737.jpg?t=st=1740980854~exp=1740984454~hmac=cf2f464f78d0d31e2953f91146cc6fa78931fa1bcc505482f92eabea65650530&w=1380",
+            "title": "Men's Digital Watch",
+            "description": "Water-resistant digital watch with LED display.",
+            "price": 59.99,
+            "rating": 4.2
+          },
+          {
+            "id": 8,
+            "images": "https://img.freepik.com/premium-photo/young-handsome-caucasian-man_20279-4587.jpg?w=740",
+            "title": "Slim Fit Jeans",
+            "description": "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?t=st=1740980892~exp=1740984492~hmac=2a87cc209843f7020111e62321e1a090841710b0bbb80f125856783b845e4f85&w=900",
+            "price": 49.99,
+            "rating": 4.5
+          },
+          {
+            "id": 9,
+            "images": "https://img.freepik.com/premium-photo/christmas-green-hoodie-mockup_776894-67317.jpg?w=740",
+            "title": "Men's Hoodie",
+            "description": "Warm and cozy hoodie for casual outings.",
+            "price": 45.99,
+            "rating": 4.3
+          },
+          {
+            "id": 10,
+            "images": "https://img.freepik.com/free-photo/brown-leather-slip-men-s-shoes-fashion_53876-104481.jpg?t=st=1740980984~exp=1740984584~hmac=8c0683c772568c6cd1e6266221dac879d937b1983bf5b0838bf9be126dd1fda9&w=1380",
+            "title": "Formal Leather Shoes",
+            "description": "Elegant leather shoes for formal events and office wear.",
+            "price": 89.99,
+            "rating": 4.6
+          },
+          {
+            "id": 11,
+            "images": "https://img.freepik.com/free-photo/handsome-young-business-man-outside-winter_1303-13931.jpg?t=st=1740981036~exp=1740984636~hmac=b9a7ec41bd61f201c1a4faaf8ec1b2a2b44ec8823519c7429e69208faf2c4098&w=1380",
+            "title": "Men's Winter Coat",
+            "description": "Heavy-duty winter coat for extreme cold conditions.",
+            "price": 149.99,
+            "rating": 4.7
+          },
+          {
+            "id": 12,
+            "images": "https://img.freepik.com/premium-photo/cargo-pants-photo-isolated-white-background_854706-306.jpg?w=1380",
+            "title": "Casual Jogger Pants",
+            "description": "Comfortable jogger pants for everyday wear.",
+            "price": 39.99,
+            "rating": 4.4
+          },
+          {
+            "id": 13,
+            "images": "https://img.freepik.com/free-photo/beautiful-men-fashion-with-leather-messenger-bag_1203-7607.jpg?t=st=1740981117~exp=1740984717~hmac=9cdb09aabf45154b725dc5e7879381c57307e49d3228cd980427cc3e986ed1d9&w=740",
+            "title": "Leather Messenger Bag",
+            "description": "Spacious leather messenger bag for work or travel.",
+            "price": 79.99,
+            "rating": 4.5
+          },
+          {
+            "id": 14,
+            "images": "https://img.freepik.com/free-photo/young-smiling-man-red-shirt-with-optical-glasses-points-himself-isolated-orange-wall_141793-35496.jpg?t=st=1740981181~exp=1740984781~hmac=c5f0f431ac0b95148b9f3bb09de76c8d1dcf462a81bd29a8c8ccb485ace2835f&w=1380",
+            "title": "Men's Polo T-Shirt",
+            "description": "Classic polo t-shirt for a casual yet stylish look.",
+            "price": 29.99,
+            "rating": 4.3
+          },
+          {
+            "id": 15,
+            "images": "https://img.freepik.com/free-photo/man-black-shorts-summer-apparel-shoot_53876-125277.jpg?t=st=1740981216~exp=1740984816~hmac=de5f187ee9052c2a8d4c879d5a17b5148db7d2284540b07ab333f1d0f9578e64&w=740",
+            "title": "Men's Cargo Shorts",
+            "description": "Durable cargo shorts with multiple pockets.",
+            "price": 34.99,
+            "rating": 4.2
+          },
+          {
+            "id": 16,
+            "images": "https://img.freepik.com/free-vector/hiking-boots-concept-illustration_114360-14021.jpg?t=st=1740981280~exp=1740984880~hmac=f3766a205922bc9b4c394ebc30cd0f1e013ee81da1c051fcabe5f5a59eea036d&w=900",
+            "title": "Waterproof Hiking Boots",
+            "description": "Rugged hiking boots for outdoor adventures.",
+            "price": 99.99,
+            "rating": 4.8
+          },
+          {
+            "id": 17,
+            "images": "https://img.freepik.com/free-photo/high-angle-man-wearing-watch_23-2149436737.jpg?t=st=1740980854~exp=1740984454~hmac=cf2f464f78d0d31e2953f91146cc6fa78931fa1bcc505482f92eabea65650530&w=1380",
+            "title": "Fitness Smartwatch",
+            "description": "Track your fitness goals with this advanced smartwatch.",
+            "price": 109.99,
+            "rating": 4.6
+          },
+          {
+            "id": 18,
+            "images": "https://img.freepik.com/premium-photo/closeup-man-with-stylish-bow-tie-dark-background_392895-139632.jpg?w=1380",
+            "title": "Classic Bow Tie",
+            "description": "Elegant bow tie for formal events.",
+            "price": 19.99,
+            "rating": 4.2
+          },
+          {
+            "id": 19,
+            "images": "https://img.freepik.com/premium-photo/fashionable-men-s-black-belt_84738-7539.jpg?w=740",
+            "title": "Men's Leather Belt",
+            "description": "Durable leather belt with a sleek metal buckle.",
+            "price": 25.99,
+            "rating": 4.5
+          },
+          {
+            "id": 20,
+            "images": "https://img.freepik.com/free-photo/fashionable-man-winter-knitted-clothes_158595-4109.jpg?t=st=1740981466~exp=1740985066~hmac=521ef4a28c0aadd123bcf2f1668238cef56b7c933034c38434a95aa11253e921&w=900",
+            "title": "Men's Beanie",
+            "description": "Warm knitted beanie for winter days.",
+            "price": 19.99,
+            "rating": 4.3
+          }
+        ],
+
+        "kids_data":[
+          {
+            "id": 1,
+            "images": "https://img.freepik.com/premium-photo/low-section-child-standing-footpath_1048944-8349735.jpg?w=1380",
+            "title": "Kids' Sneakers",
+            "description": "Comfortable and stylish sneakers for kids.",
+            "price": 29.99,
+            "rating": 4.6
+          },
+          {
+            "id": 2,
+            "images": "https://img.freepik.com/free-psd/adorable-light-blue-teddy-bear-with-bow_191095-83880.jpg?t=st=1740981532~exp=1740985132~hmac=1b9ecb6a129234ba8f3803ad258d5b4457ad054777f20fa7b3266315115d6ba3&w=900",
+            "title": "Soft Plush Teddy Bear",
+            "description": "Cute and cuddly plush teddy bear for kids.",
+            "price": 19.99,
+            "rating": 4.8
+          },
+          {
+            "id": 3,
+            "images": "https://img.freepik.com/premium-vector/vector-illustration-girls-school-backpack-pinkblue-colors_575838-2092.jpg?w=900",
+            "title": "Kids' Cartoon Backpack",
+            "description": "Spacious backpack with cartoon characters.",
+            "price": 24.99,
+            "rating": 4.5
+          },
+          {
+            "id": 4,
+            "images": "https://img.freepik.com/premium-photo/little-boy-white-shirt-blue-shorts-with-blonde-hair-stands-shows-off-his-wristwatch-is-scared_88135-14395.jpg?w=1380",
+            "title": "Kids' Digital Watch",
+            "description": "Water-resistant digital watch with fun colors.",
+            "price": 15.99,
+            "rating": 4.3
+          },
+          {
+            "id": 5,
+            "images": "https://img.freepik.com/free-photo/full-length-portrait-cute-little-kid-boy-stylish-jeans-clothes-smiling-standing-white-kids-fashion-concept_155003-20308.jpg?t=st=1740981637~exp=1740985237~hmac=8dea0008d3c9a3b2afe76d9c4d59c19a02174e3a9ca26ab09b2e60c33e3ed55d&w=740",
+            "title": "Boys' Denim Jacket",
+            "description": "Trendy denim jacket for young boys.",
+            "price": 39.99,
+            "rating": 4.7
+          },
+          {
+            "id": 6,
+            "images": "https://img.freepik.com/free-photo/little-girl-studio_1303-5617.jpg?t=st=1740981676~exp=1740985276~hmac=60e25295b2c5914e2afc3134f57065c69f97a4ba2d118f56bd84723e96371886&w=740",
+            "title": "Girls' Princess Dress",
+            "description": "Beautiful princess dress for little girls.",
+            "price": 49.99,
+            "rating": 4.9
+          },
+          {
+            "id": 7,
+            "images": "https://img.freepik.com/premium-vector/puzzle-game-kids_78007-148.jpg?w=900",
+            "title": "Kids' Puzzle Game",
+            "description": "Educational puzzle game for brain development.",
+            "price": 14.99,
+            "rating": 4.5
+          },
+          {
+            "id": 8,
+            "images": "https://img.freepik.com/free-photo/cute-little-girl-learning-ride-bicycle_1303-31149.jpg?t=st=1740981750~exp=1740985350~hmac=98acfff25c20604d50387bdb9212a803ed986775ac87c2b3638282da6b3749de&w=740",
+            "title": "Kids' Bicycle",
+            "description": "Durable and lightweight bicycle for kids.",
+            "price": 89.99,
+            "rating": 4.6
+          },
+          {
+            "id": 9,
+            "images": "https://img.freepik.com/free-photo/two-happy-beautiful-stylish-little-girl-wearing-sunglasses-posing-isolated-yellow-studio-background-medium-shot-adorable-laughing-female-child-friend-enjoying-friendship-having-positive-emotion_132075-13008.jpg?t=st=1740981795~exp=1740985395~hmac=ea38800b79499fd3954cd7915cb30740ebfefd25d195846bcbc960f265d7f839&w=1380",
+            "title": "Kids' Sunglasses",
+            "description": "UV-protected sunglasses for kids.",
+            "price": 12.99,
+            "rating": 4.2
+          },
+          {
+            "id": 10,
+            "images": "https://img.freepik.com/free-photo/kids-pajama-with-birthday-party-pattern_53876-105715.jpg?t=st=1740981837~exp=1740985437~hmac=a5018921193991fb60b1c77a76a6a66ed328316410892670c63dfedad5d2c345&w=740",
+            "title": "Soft Cotton Pajamas",
+            "description": "Comfortable cotton pajamas for kids.",
+            "price": 22.99,
+            "rating": 4.7
+          },
+          {
+            "id": 11,
+            "images": "https://img.freepik.com/premium-photo/high-angle-view-multi-colored-pencils-table_1048944-2606561.jpg?w=900",
+            "title": "Toy Car Set",
+            "description": "Exciting toy car set for young racers.",
+            "price": 18.99,
+            "rating": 4.6
+          },
+          {
+            "id": 12,
+            "images": "https://img.freepik.com/premium-photo/portrait-young-woman-walking-street_1048944-11427666.jpg?w=740",
+            "title": "Kids' Raincoat",
+            "description": "Waterproof raincoat with hood for kids.",
+            "price": 27.99,
+            "rating": 4.4
+          },
+          {
+            "id": 13,
+            "imags": "https://img.freepik.com/premium-photo/directly-shot-colorful-alphabets-table_1048944-10137578.jpg?w=740",
+            "title": "Alphabet Learning Board",
+            "description": "Interactive alphabet board for early learning.",
+            "price": 15.99,
+            "rating": 4.8
+          },
+          {
+            "id": 14,
+            "images": "https://img.freepik.com/free-photo/child-having-fun-winter-roadtrip_23-2149314853.jpg?t=st=1740982004~exp=1740985604~hmac=155b1440f92cb419e10b71459753bba891c394fa0df10a26052b2740c11998e8&w=1380",
+            "title": "Kids' Winter Gloves",
+            "description": "Warm and soft gloves for winter wear.",
+            "price": 9.99,
+            "rating": 4.3
+          },
+          {
+            "id": 15,
+            "images": "https://img.freepik.com/free-photo/little-boy-playing-with-soap-bubbles_158595-32.jpg?t=st=1740982037~exp=1740985637~hmac=b53baefb7a93142d676b577c07d82e62ad89b72163135987ab637a2f2abdbfa2&w=740",
+            "title": "Bubble Maker Toy",
+            "description": "Fun bubble-making toy for outdoor play.",
+            "price": 14.99,
+            "rating": 4.5
+          },
+          {
+            "id": 16,
+            "images": "https://img.freepik.com/free-photo/toys-sandbox-bright-surface_23-2148149535.jpg?t=st=1740982094~exp=1740985694~hmac=6cfd81cb8b0fb936b9330097379fe77bb6e9fb700742eb9713005ae1982f6547&w=900",
+            "title": "Kids' Beach Sand Toy Set",
+            "description": "Colorful beach sand toy set for summer fun.",
+            "price": 19.99,
+            "rating": 4.7
+          },
+          {
+            "id": 17,
+            "images": "https://img.freepik.com/free-photo/school-girl-wearing-headphones-virtual-school_23-2148771486.jpg?t=st=1740982135~exp=1740985735~hmac=1e221e76fd312797ff09454472c41e44b2ccb105d29359b2df34359e139d9f3b&w=1380",
+            "title": "Kids' Educational Tablet",
+            "description": "Interactive learning tablet for young children.",
+            "price": 59.99,
+            "rating": 4.6
+          },
+          {
+            "id": 18,
+            "images": "https://img.freepik.com/free-photo/cute-fluffy-monkey-toys_23-2149642394.jpg?t=st=1740982172~exp=1740985772~hmac=d25b96b0321fe7064b7fbd86a2e948df65d7c3937623cc16234349969600a490&w=1380",
+            "title": "Plush Animal Toy Set",
+            "description": "Soft plush animal toys for toddlers.",
+            "price": 25.99,
+            "rating": 4.8
+          },
+          {
+            "id": 19,
+            "images": "https://img.freepik.com/premium-vector/story-book-with-royal-story-cartoon_43633-4631.jpg?w=1380",
+            "title": "Kids' Storybook Collection",
+            "description": "A set of engaging storybooks for bedtime reading.",
+            "price": 34.99,
+            "rating": 4.9
+          },
+          {
+            "id": 20,
+            "images": "https://img.freepik.com/free-photo/child-toys-still-life_23-2148144864.jpg?t=st=1740982261~exp=1740985861~hmac=a0face76c156f8cea86e7989c7fb9a1e38da48302b38e952e7d53437e11c40a4&w=1380",
+            "title": "Kids' Wooden Building Blocks",
+            "description": "Colorful wooden blocks to enhance creativity.",
+            "price": 29.99,
+            "rating": 4.5
+          }
+        ]        
+      }
+      
+
+ 

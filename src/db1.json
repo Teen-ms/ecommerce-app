@@ -1,0 +1,165 @@
+{
+    "women_clothes": [
+      {
+        "id": 1,
+        "title": "Floral Print Summer Dress",
+        "description": "Lightweight, breathable, and perfect for summer outings.",
+        "image": "https://5.imimg.com/data5/PT/JD/MY-5727497/stylish-ladies-dresses-500x500.jpg",
+        "price": 29.99,
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "title": "Casual Denim Jacket",
+        "description": "Classic denim jacket with a relaxed fit.",
+        "image": "https://via.placeholder.com/200",
+        "price": 49.99,
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "title": "Boho Maxi Dress",
+        "description": "A flowy, stylish maxi dress with intricate prints.",
+        "image": "https://via.placeholder.com/200",
+        "price": 39.99,
+        "rating": 4.3
+      },
+      {
+        "id": 4,
+        "title": "Comfy Cotton T-Shirt",
+        "description": "Soft cotton t-shirt available in multiple colors.",
+        "image": "https://via.placeholder.com/200",
+        "price": 14.99,
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "title": "Slim Fit Jeggings",
+        "description": "Comfortable stretch jeggings for daily wear.",
+        "image": "https://via.placeholder.com/200",
+        "price": 24.99,
+        "rating": 4.4
+      },
+      {
+        "id": 6,
+        "title": "Chic Blazer",
+        "description": "Perfect for office wear or evening outings.",
+        "image": "https://via.placeholder.com/200",
+        "price": 59.99,
+        "rating": 4.8
+      },
+      {
+        "id": 7,
+        "title": "Knitted Wool Sweater",
+        "description": "Warm and cozy sweater for winter days.",
+        "image": "https://via.placeholder.com/200",
+        "price": 34.99,
+        "rating": 4.7
+      },
+      {
+        "id": 8,
+        "title": "High Waist Skinny Jeans",
+        "description": "Trendy high waist jeans with a flattering fit.",
+        "image": "https://via.placeholder.com/200",
+        "price": 44.99,
+        "rating": 4.5
+      },
+      {
+        "id": 9,
+        "title": "Printed Kimono",
+        "description": "Lightweight kimono, great for layering.",
+        "image": "https://via.placeholder.com/200",
+        "price": 32.99,
+        "rating": 4.6
+      },
+      {
+        "id": 10,
+        "title": "Lace Evening Gown",
+        "description": "Elegant lace gown for special occasions.",
+        "image": "https://via.placeholder.com/200",
+        "price": 79.99,
+        "rating": 4.9
+      },
+      {
+        "id": 11,
+        "title": "Cotton Palazzo Pants",
+        "description": "Loose, flowy pants for a relaxed fit.",
+        "image": "https://via.placeholder.com/200",
+        "price": 27.99,
+        "rating": 4.3
+      },
+      {
+        "id": 12,
+        "title": "Ruffled Off-Shoulder Top",
+        "description": "Trendy off-shoulder top with ruffled sleeves.",
+        "image": "https://via.placeholder.com/200",
+        "price": 21.99,
+        "rating": 4.5
+      },
+      {
+        "id": 13,
+        "title": "Puffer Winter Coat",
+        "description": "Extra warm, lightweight puffer coat.",
+        "image": "https://via.placeholder.com/200",
+        "price": 89.99,
+        "rating": 4.7
+      },
+      {
+        "id": 14,
+        "title": "Classic Black Leggings",
+        "description": "Stretchable leggings for daily wear.",
+        "image": "https://via.placeholder.com/200",
+        "price": 19.99,
+        "rating": 4.6
+      },
+      {
+        "id": 15,
+        "title": "Linen Shirt Dress",
+        "description": "Breathable linen dress for casual outings.",
+        "image": "https://via.placeholder.com/200",
+        "price": 36.99,
+        "rating": 4.5
+      },
+      {
+        "id": 16,
+        "title": "Long Sleeve Bodycon Dress",
+        "description": "Figure-hugging dress with elegant style.",
+        "image": "https://via.placeholder.com/200",
+        "price": 45.99,
+        "rating": 4.7
+      },
+      {
+        "id": 17,
+        "title": "Oversized Hoodie",
+        "description": "Comfortable oversized hoodie with pockets.",
+        "image": "https://via.placeholder.com/200",
+        "price": 39.99,
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "title": "Corduroy Mini Skirt",
+        "description": "Stylish mini skirt with soft corduroy fabric.",
+        "image": "https://via.placeholder.com/200",
+        "price": 29.99,
+        "rating": 4.4
+      },
+      {
+        "id": 19,
+        "title": "Elegant Silk Blouse",
+        "description": "Luxurious silk blouse for formal occasions.",
+        "image": "https://via.placeholder.com/200",
+        "price": 54.99,
+        "rating": 4.9
+      },
+      {
+        "id": 20,
+        "title": "Casual Jumpsuit",
+        "description": "Comfortable one-piece jumpsuit for any day.",
+        "image": "https://via.placeholder.com/200",
+        "price": 42.99,
+        "rating": 4.6
+      }
+    ]
+  }
+  
