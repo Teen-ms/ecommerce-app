@@ -791,3 +791,8 @@ body {
       background-color: #ffffff00;
       color: #ffffff00;
   }
+/* hero page background image */
+  .bg{
+    background-image: url("/bg.image.avif");
+    background-position: center;
+  }

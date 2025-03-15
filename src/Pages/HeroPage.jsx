@@ -92,61 +92,91 @@
 
 
 import React from "react";
+import '../App.css' 
 import { motion } from "framer-motion";
 
 const SalonLandingPage = () => {
   return (
-    <div className="flex items-center justify-center min-h-screen px-10 bg-amber-600">
-      <div className="max-w-6xl w-full flex flex-col md:flex-row items-center relative">
-        {/* Left Section - Text Content */}
-        <div className="md:w-1/2 space-y-8 z-10 p-6 flex flex-col items-start text-left">
-      <motion.h1 
-        initial={{ opacity: 0, y: -20 }} 
-        animate={{ opacity: 1, y: 0 }} 
-        transition={{ duration: 0.8 }}
-        className="text-6xl font-extrabold text-black leading-tight font-serif"
-      >
-        Welcome to Digital <br />
-        <span className="text-pink-600">Mart</span>
-      </motion.h1>
+    // <div className="flex items-center justify-center min-h-screen px-10 bg-amber-600">
+    //   <div className="max-w-6xl w-full flex flex-col md:flex-row items-center relative">
+    //     {/* Left Section - Text Content */}
+    //     <div className="md:w-1/2 space-y-8 z-10 p-6 flex flex-col items-start text-left">
+    //   <motion.h1 
+    //     initial={{ opacity: 0, y: -20 }} 
+    //     animate={{ opacity: 1, y: 0 }} 
+    //     transition={{ duration: 0.8 }}
+    //     className="text-6xl font-extrabold text-black leading-tight font-serif"
+    //   >
+    //     Welcome to Digital <br />
+    //     <span className="text-pink-600">Mart</span>
+    //   </motion.h1>
 
 
-      <motion.button 
-        whileHover={{ scale: 1.05 }} 
-        whileTap={{ scale: 0.95 }}
-        className="bg-black text-white px-8 py-3 rounded-full flex items-center justify-center hover:bg-gray-800 transition shadow-xl"
-      >
-        Book an Appointment →
-      </motion.button>
+    //   <motion.button 
+    //     whileHover={{ scale: 1.05 }} 
+    //     whileTap={{ scale: 0.95 }}
+    //     className="bg-black text-white px-8 py-3 rounded-full flex items-center justify-center hover:bg-gray-800 transition shadow-xl"
+    //   >
+    //     Book an Appointment →
+    //   </motion.button>
+    // </div>
+
+    //     {/* Right Section - Background Image with Small Overlapping Images */}
+    //     <div className="md:w-1/2 relative flex justify-center md:justify-end mt-8 md:mt-0">
+    //       {/* Background Image (Main Salon Image) */}
+    //       <div className="relative w-full md:w-[500px] h-[300px] md:h-[400px]">
+    //         <img
+    //           src="https://img.freepik.com/free-photo/pretty-young-stylish-woman-pink-luxury-dress-using-mobile-phone-holding-shopping-bags_285396-9673.jpg?t=st=1740594071~exp=1740597671~hmac=0d356b37d8658bc992521a6b7eba3d0c0b3d3dc25c60c2e2eddb24d5cda4d3c6&w=1380"
+    //           alt="Salon Interior"
+    //           className="w-full h-full object-cover rounded-lg shadow-lg"
+    //         />
+
+    //         {/* Small Image 1 - Bottom Left */}
+    //         <img
+    //           src="https://www.shutterstock.com/shutterstock/photos/2107187642/display_1500/stock-photo-sales-consultant-advises-man-who-chooses-new-smartphone-in-store-of-household-appliances-2107187642.jpg"
+    //           alt="Stylist working"
+    //           className="absolute bottom-[-40px] left-[-40px] w-32 h-32 md:w-40 md:h-40 rounded-lg shadow-lg border-4 border-white"
+    //         />
+
+    //         {/* Small Image 2 - Top Right */}
+    //         <img
+    //           src="https://img.freepik.com/premium-photo/hands-holding-black-t-shirt-hanger_53876-109734.jpg?w=740"
+    //           alt="Haircut session"
+    //           className="absolute top-[-40px] right-[-40px] w-32 h-32 md:w-40 md:h-40 rounded-lg shadow-lg border-4 border-white"
+    //         />
+    //       </div>
+    //     </div>
+    //   </div>
+    // </div>
+
+
+    <div className=" bg relative flex flex-col md:flex-row items-center mt-10 justify-between px-8 md:px-16 py-12 ">
+    {/* Left Content */}
+    <div className="max-w-lg text-left ml-20">
+      <p className="text-orange-500 font-semibold mb-10 ">TRENDING COLLECTION 2021</p>
+      <h1 className="text-4xl md:text-6xl font-bold mt-2 mb-10 ml-10">
+        Inspired by your <span className="bg-yellow-300 px-2">fashion</span> dream
+      </h1>
+      <p className="text-gray-900 mt-4 ">
+        Fashion always was a huge interest of mine. You love beautiful clothes. We appreciate fine beading and lovely fabrics.
+      </p>
+      <button className="mt-6 bg-orange-500 ml-15 text-white px-6 py-3 rounded-full font-semibold shadow-lg hover:bg-orange-600">
+        Shop Now
+      </button>
     </div>
 
-        {/* Right Section - Background Image with Small Overlapping Images */}
-        <div className="md:w-1/2 relative flex justify-center md:justify-end mt-8 md:mt-0">
-          {/* Background Image (Main Salon Image) */}
-          <div className="relative w-full md:w-[500px] h-[300px] md:h-[400px]">
-            <img
-              src="https://img.freepik.com/free-photo/pretty-young-stylish-woman-pink-luxury-dress-using-mobile-phone-holding-shopping-bags_285396-9673.jpg?t=st=1740594071~exp=1740597671~hmac=0d356b37d8658bc992521a6b7eba3d0c0b3d3dc25c60c2e2eddb24d5cda4d3c6&w=1380"
-              alt="Salon Interior"
-              className="w-full h-full object-cover rounded-lg shadow-lg"
-            />
-
-            {/* Small Image 1 - Bottom Left */}
-            <img
-              src="https://www.shutterstock.com/shutterstock/photos/2107187642/display_1500/stock-photo-sales-consultant-advises-man-who-chooses-new-smartphone-in-store-of-household-appliances-2107187642.jpg"
-              alt="Stylist working"
-              className="absolute bottom-[-40px] left-[-40px] w-32 h-32 md:w-40 md:h-40 rounded-lg shadow-lg border-4 border-white"
-            />
-
-            {/* Small Image 2 - Top Right */}
-            <img
-              src="https://img.freepik.com/premium-photo/hands-holding-black-t-shirt-hanger_53876-109734.jpg?w=740"
-              alt="Haircut session"
-              className="absolute top-[-40px] right-[-40px] w-32 h-32 md:w-40 md:h-40 rounded-lg shadow-lg border-4 border-white"
-            />
-          </div>
-        </div>
-      </div>
+    {/* Right Image */}
+    <div className="relative mt-10 md:mt-0">
+      <div className="absolute -z-10 w-100 h-100 bg-yellow-300 rounded-full top-10 right-20"> </div>
+      <img
+        src="/Woman-shopping-bags-gilleece-communications-ideal-customer.png" 
+        alt="Fashion Model"
+        className="w-100 md:w-[450px] object-cover rounded-b-full mr-20"
+      />
+      <img src=""></img>
+     
     </div>
+  </div>
   );
 };
 
