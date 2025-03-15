@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 
 - ![Screenshot 2025-03-15 132550](https://github.com/user-attachments/assets/b7d120ef-4bee-4233-b32f-6116b77bf927)
 
+- ![image](https://github.com/user-attachments/assets/faf5d31e-3361-4767-b436-ad78af7b167f)
+
+
 # eCommerce Website
 
 ## Overview
